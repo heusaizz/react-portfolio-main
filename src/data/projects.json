@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Academic System API",
+    "imageSrc": "projects/academic.png",
+    "description": ".NET 8 API for an academic system based on Sysacad (UTN's Academic System)",
+    "skills": [".NET", "ASPNET Web Core API", "C#"],
+    "source": "https://www.github.com/Martinez17s/Prog3TPI"
+  },
+  {
+    "title": "Sysacad Front-End",
+    "imageSrc": "projects/utn.png",
+    "description": "This is the Front-End of Academic System API.",
+    "skills": ["React", "JavaScript", "Node"],
+    "source": "https://www.github.com/heusaizz/Frontend_Fake_Sysacad"
+  },
+  {
+    "title": "Argentina's Currency Web Value Viewer ",
+    "imageSrc": "projects/currency.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://martinez17s.github.io",
+    "source": "https://github.com/heusaizz/Martinez17s.github.io"
+  }
+]
